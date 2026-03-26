@@ -54,7 +54,7 @@ python main.py -i ./test_data/bigger_patch/bigCLIP_MASKED_sub_160um_seg.nii.gz -
 ```
 
 ## Citation
-
+Original paper: _A robust and efficient curve skeletonization algorithm for tree-like objects using minimum cost paths_ (Jin et al., 2016)
 
 @article{jin_robust_2016,
 	title = {A robust and efficient curve skeletonization algorithm for tree-like objects using minimum cost paths},
@@ -69,7 +69,6 @@ python main.py -i ./test_data/bigger_patch/bigCLIP_MASKED_sub_160um_seg.nii.gz -
 	month = jun,
 	year = {2016},
 	pages = {32--40},
-	file = {1-s2.0-S0167865515001063-main:C\:\\Users\\uqmxu4\\Zotero\\storage\\6DFKHIIP\\1-s2.0-S0167865515001063-main.pdf:application/pdf},
 }
 
 
